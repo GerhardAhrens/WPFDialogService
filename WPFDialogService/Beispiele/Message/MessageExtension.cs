@@ -1,6 +1,6 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="MainWindow.cs" company="Lifeprojects.de">
-//     Class: MainWindow
+// <copyright file="MessageExtension.cs" company="Lifeprojects.de">
+//     Class: MessageExtension
 //     Copyright © Lifeprojects.de 2026
 // </copyright>
 //

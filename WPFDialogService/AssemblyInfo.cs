@@ -11,5 +11,5 @@ using System.Windows.Markup;
 )]
 
 
-[assembly: XmlnsDefinition("http://schemas.WPFEventAggregator/base", "System.Windows")]
-[assembly: XmlnsPrefix("http://schemas.WPFEventAggregator/base", "base")]
+[assembly: XmlnsDefinition("http://schemas.WPFDialogService/base", "System.Windows")]
+[assembly: XmlnsPrefix("http://schemas.WPFDialogService/base", "base")]

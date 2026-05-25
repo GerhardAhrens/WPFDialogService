@@ -9,16 +9,16 @@
     <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     <AnalysisLevel>latest-recommended</AnalysisLevel>
     <ApplicationIcon>Resources\Picture\ApplicationIcon.ico</ApplicationIcon>
-    <AssemblyVersion>1.0.2026.1</AssemblyVersion>
-    <FileVersion>1.0.2026.1</FileVersion>
-    <Authors>MinimalWPF</Authors>
-    <Company>MinimalWPF</Company>
-    <Product>MinimalWPF</Product>
-    <Description>MinimalWPF NET10 V6 Template </Description>
-    <PackageId>MinimalWPF</PackageId>
-    <AssemblyName>WPFEventAggregator</AssemblyName>
-    <AssemblyTitle>MinimalWPF</AssemblyTitle>
-    <RootNamespace>WPFEventAggregator</RootNamespace>
+    <AssemblyVersion>1.0.2026.2</AssemblyVersion>
+    <FileVersion>1.0.2026.2</FileVersion>
+    <Authors>Gerhard Ahrens</Authors>
+    <Company>Lifeprojects.de 2026</Company>
+    <Product>WPFDialogService</Product>
+    <Description>Demo Programm zum WPF DialogService NET10</Description>
+    <PackageId>WPFDialogService</PackageId>
+    <AssemblyName>WPFDialogService</AssemblyName>
+    <AssemblyTitle>WPFDialogService</AssemblyTitle>
+    <RootNamespace>WPFDialogService</RootNamespace>
     <UseWindowsForms>True</UseWindowsForms>
   </PropertyGroup>
 

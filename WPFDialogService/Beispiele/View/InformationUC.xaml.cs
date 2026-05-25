@@ -1,4 +1,4 @@
-﻿namespace WPFEventAggregator.Beispiele
+﻿namespace WPFDialogService.Beispiele
 {
     using System.Windows;
     using System.Windows.Controls;

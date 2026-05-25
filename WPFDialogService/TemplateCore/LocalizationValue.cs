@@ -46,7 +46,7 @@ namespace System.Windows
                 {
                     // 1. Pack-URI erstellen
                     // Format: pack://application:,,,/AssemblyName;component/PathTo/File.xaml
-                    Uri resourceUri = new Uri($"/WPFEventAggregator.Test;component/{DICTIONARYNAME}", UriKind.Relative);
+                    Uri resourceUri = new Uri($"/WPFDialogService.Test;component/{DICTIONARYNAME}", UriKind.Relative);
                     // 2. Dictionary laden
                     resourceDict = (ResourceDictionary)Application.LoadComponent(resourceUri);
                 }

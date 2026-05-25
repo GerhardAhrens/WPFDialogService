@@ -13,7 +13,7 @@
 // </summary>
 //-----------------------------------------------------------------------
 
-namespace WPFEventAggregator
+namespace WPFDialogService
 {
     using System.Collections;
     using System.Diagnostics;
@@ -30,8 +30,8 @@ namespace WPFEventAggregator
     public partial class App : Application
     {
         private const string DEFAULTLANGUAGE = "de-DE";
-        public const string SHORTNAME = "WPFEventAggregator";
-        private static readonly string MessageBoxTitle = "WPFEventAggregator Application";
+        public const string SHORTNAME = "WPFDialogService";
+        private static readonly string MessageBoxTitle = "WPFDialogService Application";
         private static readonly string UnexpectedError = "An unexpected error occured.";
         private string exePath = string.Empty;
         private string exeName = string.Empty;

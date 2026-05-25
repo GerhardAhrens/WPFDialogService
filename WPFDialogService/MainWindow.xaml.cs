@@ -13,7 +13,7 @@
 // </summary>
 //-----------------------------------------------------------------------
 
-namespace WPFEventAggregator
+namespace WPFDialogService
 {
     using System.ComponentModel;
     using System.Globalization;
@@ -21,8 +21,7 @@ namespace WPFEventAggregator
     using System.Windows.Controls;
     using System.Windows.Input;
 
-    using WPFEventAggregator.Beispiele;
-    using WPFEventAggregator.TemplateCore;
+    using WPFDialogService.Beispiele;
 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
